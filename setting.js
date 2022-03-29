@@ -22,7 +22,7 @@
 
 
  // ★追加 マウス操作
- var controls = new THREE.OrbitControls(camera);
+//  var controls = new THREE.OrbitControls(camera);
  controls.enableZoom = false;
  controls.autoRotate = true;
 
